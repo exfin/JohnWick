@@ -1,0 +1,41 @@
+.conflict-card{
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: rgba(128, 128, 128, 0.692);
+}
+.buttons-input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+}
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+.confirm-button {
+    background-color: rgb(0, 0, 0); 
+    color:  rgb(171, 173, 36); 
+    font-size: 15px; 
+    padding: 7px 13px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    margin-right: 5px;
+}
+
+.erase-button {
+    background-color: rgb(0, 0, 0); 
+    color: rgb(171, 173, 36); 
+    font-size: 15px; 
+    padding: 7px 13px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    margin-left: 5px;
+}

@@ -1,0 +1,35 @@
+.infocard{
+    margin-left: 10%;
+    width: 80%;
+    min-height: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: rgba(85, 82, 82, 0.664);
+    border-top: 2px solid rgb(26, 25, 25);
+    
+    border-bottom: 2px solid rgb(26, 25, 25);
+}
+.flag-image{
+    width: 30px;
+    height: 20px;
+}
+.user-name{
+    font-size: 20px;
+    color: rgb(122, 113, 14);
+    
+}
+.user-condition{
+    font-size: 22px;
+    color: rgb(146, 146, 132);
+}
+.mision-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 14%;
+}

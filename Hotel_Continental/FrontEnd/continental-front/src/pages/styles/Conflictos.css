@@ -1,0 +1,15 @@
+.conflicts-page{
+    min-height: 100vh;
+    background-image: url('infoBackground.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.conflicts-container{
+    width: 90%;
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-bottom: 50px;
+    min-height: 600px;
+
+
+}

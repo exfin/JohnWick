@@ -1,0 +1,32 @@
+.regions{
+    display: flex;
+    flex-wrap: wrap;
+   
+    justify-content: center;
+    background-color: black;
+}
+.region {
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+    align-items: center;
+    margin-bottom: 100px;
+    
+}
+
+.region-title {
+    font-family: 'Bitter', sans-serif;
+    font-size: 40px; 
+    color: goldenrod;
+    text-decoration: none; 
+}
+
+.region-title:hover {
+    text-decoration: underline; 
+}
+
+.region-leader {
+    margin-top: 25px;
+    color: rgb(255, 255, 255);
+}

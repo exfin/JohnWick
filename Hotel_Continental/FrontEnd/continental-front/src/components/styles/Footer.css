@@ -1,0 +1,15 @@
+.piePag{
+    background: rgb(11, 11, 14);
+    width: 100%;
+    height: 125px;
+    display: flex;
+    
+    align-items: center;
+    margin-bottom: 0;
+    
+}
+.textoFooter{
+    color:bisque;
+    
+    margin-left: 34px;
+}

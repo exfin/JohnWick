@@ -1,0 +1,14 @@
+.region-page{
+    min-height: 100vh;
+    background-image: url('infoBackground.jpg');
+    background-size: cover;
+    background-position: center;
+    
+}
+.members-container{
+    margin-top: 50px;
+    width: 100%;
+    min-height: 600px;
+    z-index: -1;
+    margin-bottom: 50px;
+}

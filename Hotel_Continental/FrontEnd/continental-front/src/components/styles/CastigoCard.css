@@ -1,0 +1,27 @@
+.castigo-card{
+    margin-left: 10%;
+    width: 80%;
+    min-height: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: rgba(85, 82, 82, 0.664);
+    border-top: 2px solid rgb(26, 25, 25);
+    
+    border-bottom: 2px solid rgb(26, 25, 25);
+}
+.user-name{
+    font-size: 20px;
+    color: rgb(122, 113, 14);
+    
+}
+.castigo-description{
+    color: white;
+    font-size: 17px
+}
+.flag-image{
+    width: 30px;
+    height: 20px;
+}

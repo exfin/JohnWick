@@ -1,0 +1,22 @@
+.rules-page{
+    min-height: 100vh;
+    background-color: black;
+}
+.rules-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    width: 80%;
+    min-height: 600px;
+    z-index: -1;
+    margin-bottom: 50px;
+    margin-left: 10%;
+    border-right: 1px solid #2e2929; 
+    border-left: 1px solid #2e2929; 
+    box-shadow: 10px 4px 8px rgb(82, 67, 41); 
+    padding: 50px;
+}
+.rule-text{
+    font-family: 'Bitter', sans-serif;
+    color: #9e9b89;
+}
